@@ -14,7 +14,7 @@
 |U82759_at|O|
 |M84526_at|O|
   
-유전자 이름은 data_set 폴더 안 파일의 Gene dscription 확인  
+#유전자 이름은 data_set 폴더 안 파일의 Gene dscription 확인  
 #참고논문
 #Dong L Tong, Graham Bell, ‘Exploration of leukemia gene regulatory networks using systems biology approach’
 #mark list table 참고
